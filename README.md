@@ -1,2 +1,6 @@
-# yandex_ml_specialization
-Machine Learning and Data Analysis
+# Машинное обучение и анализ данных.
+
+## Курс 1. Математика и Python для анализа данных.
+### Конспекты по Pandas (ipynb).
+* Введение в Data Frame
+* Индексация и селекция
